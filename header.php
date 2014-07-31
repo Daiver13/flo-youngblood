@@ -34,3 +34,4 @@
 			</nav>
 		</header>
 		<div id="content-main" class="content-main" role="main">
+		<script src="/javascripts/application.js" type="text/javascript" charset="utf-8" > alert('Hi this is Costea M.!');</script>
