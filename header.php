@@ -28,8 +28,14 @@
 			</nav>
 		</header>
 		<div id="content-main" class="content-main" role="main">
-<<<<<<< HEAD
+
 		<script src="/javascripts/application.js" type="text/javascript" charset="utf-8" > alert('Hi this is Costea M.!');</script>
-=======
+
 			<!-- Just a comment to test -->
->>>>>>> origin/andrew
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
