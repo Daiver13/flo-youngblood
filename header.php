@@ -12,6 +12,7 @@
 	<div id="wrapper">
 		<header id="header-main" class="header-main">
 			<a id="rel-top"></a>
+			<!-- Comment 3 -->
 			<div class="logo"><a href="<?php echo home_url(); ?>/"><?php bloginfo('name'); ?></a></div>
 			<nav id="nav-main" role="navigation" class="nav-main cf">
 				<?php wp_nav_menu(array(
@@ -33,4 +34,5 @@
 				</div> -->
 			</nav>
 		</header>
+		<!-- Comment2 -->
 		<div id="content-main" class="content-main" role="main">
