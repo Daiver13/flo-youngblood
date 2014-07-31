@@ -20,12 +20,6 @@
 					'walker'		=> new Flotheme_Nav_Walker(),
 					'container'		=> '',
 				)); ?>
-				<?php wp_nav_menu(array(
-					'menu'			=> 'Left Menu',
-					'menu_class'	=> 'menu cf',
-					'walker'		=> new Flotheme_Nav_Walker(),
-					'container'		=> '',
-				)); ?>
 <!-- 				<div class="social">
 					<?php if (flo_get_option('fb')) : ?><a href="<?php flo_option('fb');?>" rel="external">Facebook</a><?php endif; ?>
 					<?php if (flo_get_option('fb') && flo_get_option('twi')) : ?>/<?php endif;?>
@@ -34,4 +28,8 @@
 			</nav>
 		</header>
 		<div id="content-main" class="content-main" role="main">
+<<<<<<< HEAD
 		<script src="/javascripts/application.js" type="text/javascript" charset="utf-8" > alert('Hi this is Costea M.!');</script>
+=======
+			<!-- Just a comment to test -->
+>>>>>>> origin/andrew
