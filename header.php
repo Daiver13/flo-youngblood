@@ -11,8 +11,8 @@
 <body <?php body_class(); ?>>
 	<div id="wrapper">
 		<header id="header-main" class="header-main">
-			<a id="rel-top"></a>
 			<!-- Comment 3 -->
+			<a id="rel-top"></a>
 			<div class="logo"><a href="<?php echo home_url(); ?>/"><?php bloginfo('name'); ?></a></div>
 			<nav id="nav-main" role="navigation" class="nav-main cf">
 				<?php wp_nav_menu(array(
