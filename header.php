@@ -29,5 +29,6 @@
 				)); ?>
 			</nav>
 		</header>
+		<!-- end of header -->
 		<!-- Comment2 -->
 		<div id="content-main" class="content-main" role="main">
