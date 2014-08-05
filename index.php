@@ -1,4 +1,6 @@
-<?php get_header(); ?>
+<?php 
+// This is index file
+get_header(); ?>
 <?php flo_part('featured-posts') ?>
 <?php flo_part('category-archive') ?>
 <?php flo_part('blog-header') ?>

@@ -8,7 +8,7 @@
 				&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?>
 			<?php endif; ?>
 			</p>
-			<p class="madeby">
+			<p class="madeby" onclick="javascript: alert('do not push me!')">
 				<?php _e('Site by', 'flotheme'); ?> <a href="http://flosites.com" rel="external"><?php _e('Floagency', 'flotheme'); ?></a>
 			</p>
 		</footer>
