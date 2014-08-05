@@ -27,11 +27,6 @@
 					'walker'		=> new Flotheme_Nav_Walker(),
 					'container'		=> '',
 				)); ?>
-<!-- 				<div class="social">
-					<?php if (flo_get_option('fb')) : ?><a href="<?php flo_option('fb');?>" rel="external">Facebook</a><?php endif; ?>
-					<?php if (flo_get_option('fb') && flo_get_option('twi')) : ?>/<?php endif;?>
-					<?php if (flo_get_option('twi')) : ?><a href="http://twitter.com/#!/<?php flo_option('twi');?>" rel="external">Twitter</a><?php endif; ?>
-				</div> -->
 			</nav>
 		</header>
 		<!-- Comment2 -->
