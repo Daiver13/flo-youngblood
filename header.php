@@ -16,13 +16,13 @@
 			<div class="logo"><a href="<?php echo home_url(); ?>/"><?php bloginfo('name'); ?></a></div>
 			<nav id="nav-main" role="navigation" class="nav-main cf">
 				<?php wp_nav_menu(array(
-					'menu'			=> 'Right menu',
+					'menu'			=> 'Left menu',
 					'menu_class'	=> 'menu cf',
 					'walker'		=> new Flotheme_Nav_Walker(),
 					'container'		=> '',
 				)); ?>
 				<?php wp_nav_menu(array(
-					'menu'			=> 'Left Menu',
+					'menu'			=> 'Right Menu',
 					'menu_class'	=> 'menu cf',
 					'walker'		=> new Flotheme_Nav_Walker(),
 					'container'		=> true,
