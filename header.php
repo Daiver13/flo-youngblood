@@ -25,7 +25,7 @@
 					'menu'			=> 'Left Menu',
 					'menu_class'	=> 'menu cf',
 					'walker'		=> new Flotheme_Nav_Walker(),
-					'container'		=> '',
+					'container'		=> true,
 				)); ?>
 			</nav>
 		</header>
